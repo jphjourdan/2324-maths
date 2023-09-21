@@ -18,5 +18,5 @@
 
 ## Chapitre 8 : Arithmétique dans l'anneau (ℤ,+,⋅)
 
-## Chapitre 8 : Nombres complexes
+## Chapitre 9 : Nombres complexes
 
