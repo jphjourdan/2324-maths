@@ -12,9 +12,13 @@
 
 ## Chapitre 5 : Fonctions circulaires
 
+- D02-DS01 : Logique, nombres réels, fonctions usuelles.
+
 ## Chapitre 6 : Nombres entiers, itérations
 
 ## Chapitre 7 : Calculs algébriques
+
+- D03-TIRTL : Deux exercices avec des sommes doubles. Identité de Lagrange, inégalité de Cauchy-Schwarz.
 
 ## Chapitre 8 : Arithmétique dans l'anneau (ℤ,+,⋅)
 
