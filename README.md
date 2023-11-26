@@ -38,34 +38,42 @@
 ## Chapitre 13 : Calcul matriciel élémentaire
 
 - D08-TIRTL : Puissance d'une matrice, suites récurrentes, commutant.
-- D09-DS03 : Samedi 2 décembre 2023.
 
 ## Chapitre 14 : Structures algébriques fondamentales
 
+- D09-SE : Anneau ℤ[	√n] et équation de Pell-Fermat
 - D10-TIRTL : L'anneau ℤ / nℤ.
-- D11-SE : ????
 
 ## Chapitre 15 : Groupe symétrique
 
 ## Chapitre 16 : Systèmes d’équations linéaires
 
-- Dxx-SE : Une introduction à l'analyse d'algorithmes. Comparaison des algorithmes de Gauß (avec substitution) et de Gauß-Jordan pour la résolution d'un système de Cramer.
+- D11-SE : Une introduction à l'analyse d'algorithmes. Comparaison des algorithmes de Gauß (avec substitution) et de Gauß-Jordan pour la résolution d'un système de Cramer.
 
 ## Chapitre 17 : Matrices inversibles
 
+- D12-DS03 : Samedi 2 décembre 2023.
+
+## Chapitre 19 : Équations différentielles linéaires scalaires à coefficients constants
+
+- D13-TIRTL : Circuit RLC
+
 ## Chapitre 18 : Déterminant d'une matrice
 
-- Dxx-DS04 : Samedi 23 décembre
 
 ## Chapitre 19 : Borne supérieure dans ℝ
 
-- Dxx-SE : Construction de ℝ par les coupures de Dedekind
+- D14-SE : Construction de ℝ par les coupures de Dedekind
 
 ## Chapitre 20 : Suites de nombres réels et complexes
 
-- Dxx-SE : Construction de ℝ par les suites de Cauchy dans ℚ
+- D15-SE : Construction de ℝ par les suites de Cauchy dans ℚ
+- D16-TIRTL : Suites vérifiant ...
+- D17-SE : Centrale 1989 Maths I M
 
 ## Chapitre 21 : Relations de comparaisons sur les suites
 
-## Chapitre XX : Équations différentielles linéaires scalaires à coefficients constants
 
+
+
+- Dxx-DS04 : Samedi 23 décembre
