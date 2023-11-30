@@ -41,7 +41,7 @@
 
 ## Chapitre 14 : Structures algébriques fondamentales
 
-- D09-SE : Anneau ℤ[	√n] et équation de Pell-Fermat
+- D09-SE : Anneau ℤ[	√n] et équation de Pell-Fermat.
 - D10-TIRTL : L'anneau ℤ / nℤ.
 
 ## Chapitre 15 : Groupe symétrique
@@ -56,24 +56,24 @@
 
 ## Chapitre 19 : Équations différentielles linéaires scalaires à coefficients constants
 
-- D13-TIRTL : Circuit RLC
+- D13-TIRTL : Circuit RLC.
 
 ## Chapitre 18 : Déterminant d'une matrice
 
 
-## Chapitre 19 : Borne supérieure dans ℝ
+## Chapitre 20 : Borne supérieure dans ℝ
 
-- D14-SE : Construction de ℝ par les coupures de Dedekind
+- D14-SE : Construction de ℝ par les coupures de Dedekind.
 
-## Chapitre 20 : Suites de nombres réels et complexes
+## Chapitre 21 : Suites de nombres réels et complexes
 
-- D15-SE : Construction de ℝ par les suites de Cauchy dans ℚ
+- D15-SE : Construction de ℝ par les suites de Cauchy dans ℚ.
 - D16-TIRTL : Suites vérifiant ...
-- D17-SE : Centrale 1989 Maths I M
+- D17-SE : Centrale 1989 Maths I M.
 
-## Chapitre 21 : Relations de comparaisons sur les suites
-
-
+## Chapitre 22 : Relations de comparaisons sur les suites
 
 
-- Dxx-DS04 : Samedi 23 décembre
+
+
+- Dxx-DS04 : Samedi 23 décembre.
