@@ -24,9 +24,10 @@
 
 ## Chapitre 9 : Nombres complexes
 
-## Chapitre 10 : Vocabulaire relatif aux applications
 
 ## Chapitre 11 : Relations binaires sur un ensemble
+
+## Chapitre 10 : Vocabulaire relatif aux applications
 
 - D05-DS02 : Une équation diophantienne, une homographie, racines d'un polynôme de degré 6, transformation de Fourier, une bijection entre ℕ² et ℕ.
 - D06-SE : Théorème de Cantor-Bernstein.
@@ -63,7 +64,7 @@
 
 ## Chapitre 20 : Borne supérieure dans ℝ
 
-- D14-SE : Construction de ℝ par les coupures de Dedekind.
+- D14-SE : Construction de ℝ par les sections commençantes.
 
 ## Chapitre 21 : Suites de nombres réels et complexes
 
