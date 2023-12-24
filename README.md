@@ -69,12 +69,15 @@
 ## Chapitre 21 : Suites de nombres réels et complexes
 
 - D15-SE : Construction de ℝ par les suites de Cauchy dans ℚ.
-- D16-TIRTL : Suites vérifiant ...
-- D17-SE : Centrale 1989 Maths I M.
+
 
 ## Chapitre 22 : Relations de comparaisons sur les suites
 
+## Chapitre 23 : Suites récurrentes
 
+- D16-DS04 : Samedi 23 décembre.
+- D17-TIRTL : Deux exercices sur les suites.
+- D18-SE : Centrale 1989 Maths I M.
 
+## Chapitre 24 : Limite, continuité
 
-- Dxx-DS04 : Samedi 23 décembre.
