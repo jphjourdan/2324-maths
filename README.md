@@ -81,3 +81,25 @@
 
 ## Chapitre 24 : Limite, continuité
 
+## Chapitre 25 : Relations de comparaisons sur les fonctions
+
+## Chapitre 26 : Dérivées
+
+## Chapitre 27 : Convexité
+
+## Chapitre 28 : Polynômes
+
+## Chapitre 29 : Fractions rationnelles
+
+## Chapitre 30 : Développements limités
+
+## Chapitre 31 : Convergence simple et uniforme des suites de fonctions
+
+## Chapitre 32 : Intégrale de Riemann sur un segment des fonctions à valeurs réelles
+
+## Chapitre 33 : Séries numériques
+
+## Chapitre 34 : Équations différentielles linéaires scalaire du premier ordre
+
+## Chapitre 35 : Espaces vectoriels
+
