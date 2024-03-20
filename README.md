@@ -103,3 +103,23 @@
 
 ## Chapitre 35 : Espaces vectoriels
 
+## Chapitre 36 : Applications linéaires
+
+## Chapitre 37 : Sommes et projecteurs
+
+## Chapitre 38 : Génération et liberté
+
+## Chapitre 39 : Dimension
+
+## Chapitre 40 : Applications linéaires et dimension
+
+## Chapitre 41 : Représentation matricielle en algèbre linéaire
+
+## Chapitre 42 : Espace probabilisé fini
+
+## Chapitre 43 : Variables aléatoires sur un univers fini
+
+## Chapitre 44 : Couples de variables aléatoires finies
+
+## Chapitre 45 : Déterminants
+
